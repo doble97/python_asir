@@ -1,0 +1,6 @@
+n1 = int(input('Número 1: '))
+n2 = int(input('Número 2: '))
+print('Multiplicacion: ', n1*n2)
+print('Division: ', n1/n2)
+print('Suma: ', n1+n2)
+print('Resta: ', n1-n2)
